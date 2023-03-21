@@ -1,0 +1,11 @@
+here we use bootstrap because it automatically induces dynamic ability in webpage
+
+Bootstrap includes six default breakpoints, sometimes referred to as grid tiers, for building responsively. These breakpoints can be customized if you’re using our source Sass files. xsmall, small,medium etc
+
+Containers are the most basic layout element in Bootstrap and are required when using our default grid system
+
+.container, which sets a max-width at each responsive breakpoint
+.container-fluid, which is width: 100% at all breakpoints
+.container-{breakpoint}, which is width: 100% until the specified breakpoint
+
+read documentation  https://getbootstrap.com/docs/5.0/layout/containers/
